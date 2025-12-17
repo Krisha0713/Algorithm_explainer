@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Algorithm Explainer</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+    <script>
+        mermaid.initialize({ startOnLoad: false });
+    </script>
+</head>
+
+<body>
+    <div class="stars"></div>
+
+    <div class="container">
+
+        <h1>🌌 Algorithm Explainer</h1>
+
+        <input id="inputText" type="text" placeholder="Enter algorithm name">
+
+        <select id="level">
+            <option value="beginner">Beginner</option>
+            <option value="intermediate">Intermediate</option>
+            <option value="advanced">Advanced</option>
+        </select>
+
+        <button onclick="explainConcept()">Explain</button>
+
+        <div class="section">
+            <h3>Definition</h3>
+            <p id="definition"></p>
+        </div>
+
+        <div class="section">
+            <h3>Analogy</h3>
+            <p id="analogy"></p>
+        </div>
+
+        <div class="section">
+            <h3>Engineering Example</h3>
+            <p id="example"></p>
+        </div>
+
+        <div class="section">
+            <h3>Diagram</h3>
+            <div id="diagram" class="mermaid"></div>
+        </div>
+
+        <div class="section voice-controls">
+            <h3>Voice Explanation</h3>
+            <button onclick="playVoice()">▶</button>
+            <button onclick="pauseVoice()">⏸</button>
+            <button onclick="stopVoice()">⏹</button>
+
+            <select id="voiceSpeed">
+                <option value="0.8">Slow</option>
+                <option value="1" selected>Normal</option>
+                <option value="1.2">Fast</option>
+            </select>
+        </div>
+
+    </div>
+
+    <!-- ✅ SCRIPT MUST BE HERE -->
+    <script src="script.js"></script>
+</body>
+</html>
+
+
