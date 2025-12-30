@@ -19,6 +19,8 @@ Students preparing for exams and placements
 
 Anyone who struggles to understand algorithms from textbooks
 
+---
+
 ## 🎯 Project Objectives
 
 Explain algorithms step by step
@@ -28,6 +30,8 @@ Use real-world examples and analogies
 Reduce fear of complex algorithm concepts
 
 Provide easy-to-understand explanations before code
+
+---
 
 ## ✨ Key Features
 
@@ -40,6 +44,8 @@ Provide easy-to-understand explanations before code
 🌐 Frontend + Backend architecture
 
 ⚡ API-based explanation system
+
+---
 
 ## 🛠 Technologies Used
 Frontend
@@ -60,6 +66,8 @@ Flask (Development server)
 
 REST API (JSON-based communication)
 
+---
+
 ## 🗂 Project Structure
 algorithm_explainer/
 │
@@ -74,6 +82,8 @@ algorithm_explainer/
 │   └── knowledge_base.py
 │
 └── README.md
+
+---
 
 ## 🧠 How the Algorithm Explainer Works (Simple Language)
 Step 1: User Input
@@ -117,6 +127,8 @@ Imagine cleaning a big room. Instead of cleaning everything at once, you divide 
 
 This is exactly how divide-and-conquer algorithms work.
 
+---
+
 ## ▶️ How to Run the Project
 ## 1️⃣ Backend Setup
 cd algorithm_explainer/backend
@@ -141,6 +153,8 @@ Backend responds with JSON
 
 No database is required (knowledge-based logic)
 
+---
+
 ## 🚀 Future Enhancements
 
 Add visual diagrams
@@ -153,7 +167,9 @@ User-selected difficulty levels
 
 Voice-based explanations
 
-##📚 Learning Outcomes
+---
+
+## 📚 Learning Outcomes
 
 By completing this project, I understood:
 
