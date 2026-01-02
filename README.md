@@ -1,11 +1,13 @@
-## 👩‍💻 Author
+##  Author
 
 Krishna Priya R
 B.E Computer Science Engineering
 Algorithm Explainer Project
 
-## 🧠 Algorithm Explainer – Learn Algorithms with Real-World Analogies
-📌 Project Overview
+---
+
+##  Algorithm Explainer – Learn Algorithms with Real-World Analogies
+   Project Overview
 
 Algorithm Explainer is a web-based learning platform that explains computer science algorithms in simple language using real-world analogies.
 
@@ -21,7 +23,7 @@ Anyone who struggles to understand algorithms from textbooks
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 Explain algorithms step by step
 
@@ -33,21 +35,21 @@ Provide easy-to-understand explanations before code
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-📝 Text-based algorithm input
+- Text-based algorithm input
 
-🧠 Explanation using real-world analogies
+- Explanation using real-world analogies
 
-🎓 Beginner → Intermediate → Advanced explanation levels
+- Beginner → Intermediate → Advanced explanation levels
 
-🌐 Frontend + Backend architecture
+- Frontend + Backend architecture
 
-⚡ API-based explanation system
+- API-based explanation system
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 Frontend
 
 HTML
@@ -68,7 +70,7 @@ REST API (JSON-based communication)
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 algorithm_explainer/
 │
 ├── frontend/
@@ -85,7 +87,7 @@ algorithm_explainer/
 
 ---
 
-## 🧠 How the Algorithm Explainer Works (Simple Language)
+##  How the Algorithm Explainer Works (Simple Language)
 Step 1: User Input
 
 The user enters an algorithm name or concept
@@ -117,7 +119,7 @@ Why it is needed
 
 How it works in real life
 
-🧪 Example Explanation
+ Example Explanation
 
 Algorithm: Divide and Conquer
 
@@ -137,7 +139,6 @@ python app.py
 
 Server runs at:
 
-http://127.0.0.1:5000
 
 ## 2️⃣ Frontend Setup
 
@@ -155,7 +156,7 @@ No database is required (knowledge-based logic)
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 Add visual diagrams
 
@@ -169,7 +170,7 @@ Voice-based explanations
 
 ---
 
-## 📚 Learning Outcomes
+##  Learning Outcomes
 
 By completing this project, I understood:
 
